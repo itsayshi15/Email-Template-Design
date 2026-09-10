@@ -1,0 +1,210 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <meta name="x-apple-disable-message-reformatting">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="telephone=no" name="format-detection">
+    <title>
+      Formal Invitation: EAIE 2026
+    </title>
+    <!--[if (mso 16)]>
+    <style type="text/css">
+    a {text-decoration: none;}
+    </style>
+    <![endif]-->
+    <!--[if mso]><xml>
+    <w:WordDocument xmlns:w="urn:schemas-microsoft-com:office:word">
+      <w:DontUseAdvancedTypographyReadingMail/>
+    </w:WordDocument>
+    </xml><![endif]-->
+  </head>
+  <body style="background-color: #F4F4F4; width: 100%; font-family: &#39;Times New Roman&#39;, Times, serif; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; padding: 0; Margin: 0">
+
+    <!-- 100% Wrapper Table for perfect centering -->
+    <table cellspacing="0" width="100%" border="0" cellpadding="0" style="background-color: #F4F4F4">
+      <tr>
+        <td valign="top" align="center" style="padding: 40px 10px">
+
+          <!-- 600px Premium Container -->
+          <table width="600" bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" style="border-top: 6px solid #e75806; box-shadow: 0 10px 25px rgba(0,0,0,0.05); border: 1px solid #E0E0E0">
+
+            <!-- Hero Image -->
+            <tr>
+              <td align="center" style="font-size: 0; padding-bottom: 20px">
+                <img alt="EAIE 2026 Conference" src="https://eioedib.stripocdn.email/content/guids/CABINET_0684dc85b647b8ea2e163cc870cd7f356fa4cf7eef2172a7812866095819038d/images/whatsapp_image_20260829_at_104714_am.jpeg" width="600" style="display: block; max-width: 100%; height: auto; border: none">
+              </td>
+            </tr>
+
+            <!-- Elegant Header -->
+            <tr>
+              <td align="center" esd-text="true" class="esd-text" style="padding: 10px 40px 20px 40px">
+                <p style="margin: 0; color: #e75806; font-size: 20px; letter-spacing: 2px; text-transform: uppercase; font-weight: bold">
+                  INVITATION TO CONNECT @EAIE 2026
+                </p>
+                <table width="50px" border="0" cellpadding="0" cellspacing="0" style="margin-top: 15px">
+                  <tr>
+                    <td style="font-size: 1px; border-bottom: 1px solid #D4AF37; line-height: 1px">
+                      &nbsp;
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- Main Body Text (Space Reduced at the bottom) -->
+            <tr>
+              <td align="left" esd-text="true" class="esd-text" style="padding: 10px 50px 0 50px">
+                <p style="color: #111111; font-weight: bold; margin: 0 0 20px; font-size: 18px">
+                  Dear Partner,
+                </p>
+                <p style="margin: 0 0 20px; font-size: 17px; color: #333333; line-height: 1.7; text-align: justify">
+                  Greetings of the Day! As a team from
+                  <strong>
+                    Daffodil International University, Bangladesh
+                  </strong>
+                  will be joining the upcoming
+                  <strong>
+                    EAIE 2026 Conference in Glasgow,
+                  </strong>
+                  from 9 - 11 September 2026. we would like to warmly invite you and your colleagues to connect and schedule a meeting during the event, if you or any of your colleagues will also be attending EAIE. We can meet and discuss to explore future opportunities together.
+                </p>
+                <p style="font-size: 17px; color: #333333; line-height: 1.7; margin: 0">
+                  The DIU delegation at EAIE 2026 comprises:
+                </p>
+              </td>
+            </tr>
+
+            <!-- Premium Styled Delegation List -->
+            <tr>
+              <td align="center" style="padding: 0 50px 30px 50px">
+                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="padding: 25px; background-color: #FAFAFA; border-left: 2px solid #e75806">
+                  <!-- Member 1 -->
+                  <tr>
+                    <td esd-text="true" class="esd-text" style="padding-bottom: 15px">
+                      <p style="font-size: 17px; color: #000000; margin: 0">
+                        <strong>
+                          Mohamed Emran Hossain, PhD
+                        </strong>
+                      </p>
+                      <p style="margin: 3px 0 0; font-size: 15px; color: #666666; font-style: italic">
+                        Member, Board of Trustees
+                      </p>
+                    </td>
+                  </tr>
+                  <!-- Member 2 -->
+                  <tr>
+                    <td esd-text="true" class="esd-text" style="padding-bottom: 15px">
+                      <p style="margin: 0; font-size: 17px; color: #000000">
+                        <strong>
+                          Ms. Samiha Khan
+                        </strong>
+                      </p>
+                      <p style="color: #666666; font-style: italic; margin: 3px 0 0; font-size: 15px">
+                        Member, Board of Trustees
+                      </p>
+                    </td>
+                  </tr>
+                  <!-- Member 3 -->
+                  <tr>
+                    <td esd-text="true" class="esd-text" style="padding-bottom: 15px">
+                      <p style="margin: 0; font-size: 17px; color: #000000">
+                        <strong>
+                          Mr. Syed Raihan-Ul-Islam
+                        </strong>
+                      </p>
+                      <p style="font-style: italic; margin: 3px 0 0; font-size: 15px; color: #666666">
+                        Deputy Director, International Affairs
+                      </p>
+                    </td>
+                  </tr>
+                  <!-- Member 4 -->
+                  <tr>
+                    <td esd-text="true" class="esd-text">
+                      <p style="color: #000000; margin: 0; font-size: 17px">
+                        <strong>
+                          Mr. Shouvik Roy Snigdha
+                        </strong>
+                      </p>
+                      <p style="font-size: 15px; color: #666666; font-style: italic; margin: 3px 0 0">
+                        Administrative Officer, International Affairs
+                      </p>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- Secondary Message -->
+            <tr>
+              <td align="left" esd-text="true" class="esd-text" style="padding: 0 50px 30px 50px">
+                <p style="margin: 0 0 25px; font-size: 17px; color: #333333; line-height: 1.7; text-align: justify">
+                  We deeply value the relationship we have built with your esteemed university and are keen to explore new avenues of cooperation. Whether it is student and faculty exchanges, Erasmus+ projects, joint research, summer/winter programs, or other forms of collaboration, we believe that a face-to-face meeting during EAIE 2026 would be an excellent opportunity.
+                </p>
+
+                <!-- Premium Compact Call-Out Box -->
+                <table cellspacing="0" width="100%" border="0" cellpadding="0" style="border-left: 4px solid #e75806; background-color: #006bbd; border-radius: 4px">
+                  <tr>
+                    <td align="center" esd-text="true" class="esd-text" style="padding: 12px 20px">
+                      <p style="margin: 0; font-size: 15px; color: #ffffff; line-height: 1.4; text-align: center">
+                        If you are interested in setting up a meeting, please reach out to us at:
+                        <a href="mailto:int.office@daffodilvarsity.edu.bd" style="margin-left: 4px; color: #ffffff; font-weight: bold; text-decoration: none; border-bottom: 1px solid #ffffff; white-space: nowrap">
+                          int.office@daffodilvarsity.edu.bd
+                        </a>
+                      </p>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- Sign-off -->
+            <tr>
+              <td align="center" esd-text="true" class="esd-text" style="padding: 10px 50px 40px 50px">
+                <p style="margin: 0; font-size: 18px; color: #111111; font-style: italic">
+                  With warmest regards,
+                </p>
+                <p style="color: #000000; font-weight: bold; margin: 0; font-size: 18px">
+                  Daffodil International University, Bangladesh
+                </p>
+              </td>
+            </tr>
+
+            <!-- Minimalist Footer -->
+            <tr>
+              <td align="center" bgcolor="#F9F9F9" style="padding: 30px 40px; border-top: 1px solid #EBEBEB">
+
+                <!-- Social Icons -->
+                <table cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td align="center" style="padding: 0 10px">
+                      <a href="https://daffodilvarsity.edu.bd/" target="_blank">
+                        <img alt="Website" height="30" src="https://eioedib.stripocdn.email/content/assets/img/other-icons/circle-colored/link-circle-colored.png" width="30" style="display: block; border: none">
+                      </a>
+                    </td>
+                    <td align="center" style="padding: 0 10px">
+                      <a target="_blank" href="https://www.linkedin.com/school/daffodil-international-university/">
+                        <img height="30" src="https://eioedib.stripocdn.email/content/assets/img/social-icons/circle-colored/linkedin-circle-colored.png" width="30" alt="LinkedIn" style="display: block; border: none">
+                      </a>
+                    </td>
+                    <td align="center" style="padding: 0 10px">
+                      <a target="_blank" href="https://www.facebook.com/daffodilvarsity.edu.bd">
+                        <img alt="Facebook" height="30" src="https://eioedib.stripocdn.email/content/assets/img/social-icons/circle-colored/facebook-circle-colored.png" width="30" style="display: block; border: none">
+                      </a>
+                    </td>
+                    <td align="center" style="padding: 0 10px">
+                      <a target="_blank" href="https://www.instagram.com/daffodil.university?igsi=cGFnNWhvbGNndGQ1">
+                        <img src="https://eioedib.stripocdn.email/content/assets/img/social-icons/circle-colored/instagram-circle-colored.png" width="30" alt="Instagram" height="30" style="border: none; display: block">
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
