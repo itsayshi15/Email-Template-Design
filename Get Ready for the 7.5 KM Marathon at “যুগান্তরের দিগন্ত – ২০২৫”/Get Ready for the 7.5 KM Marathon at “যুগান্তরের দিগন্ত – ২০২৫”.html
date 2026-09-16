@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DIU Marathon 2025</title>
+  <style>
+    /* Global Styles & Reset */
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: 'Georgia', 'Times New Roman', Times, serif;
+      background-color: #f4f6f8;
+      color: #333333;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+    
+    /* Email Wrapper Box */
+    .email-container {
+      max-width: 650px;
+      margin: 40px auto;
+      background-color: #ffffff;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+    }
+
+    /* Hero Images */
+    .hero-image {
+      width: 100%;
+      display: block;
+      height: auto;
+    }
+
+    /* Primary Header Banner */
+    .header-banner {
+      background: linear-gradient(135deg, #741b47, #4a102e);
+      color: #ffffff;
+      text-align: center;
+      padding: 35px 25px;
+    }
+    .header-banner h1 {
+      font-size: 24px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      margin-bottom: 8px;
+    }
+    .header-banner .bangla-title {
+      font-size: 28px;
+      color: #ffd700; /* Warm gold accent */
+      margin-top: 10px;
+    }
+    .header-banner .sub-tag {
+      font-size: 15px;
+      font-style: italic;
+      color: #f0c3d8;
+      margin-top: 15px;
+      font-family: Arial, sans-serif;
+    }
+
+    /* Main Layout Sections */
+    .content-body {
+      padding: 40px 35px;
+      background-color: #ffffff;
+    }
+    .salutation {
+      font-size: 18px;
+      font-weight: bold;
+      margin-bottom: 15px;
+    }
+    .intro-text {
+      font-size: 16px;
+      text-align: justify;
+      color: #555555;
+      margin-bottom: 25px;
+    }
+
+    /* Theme Callout Box */
+    .theme-box {
+      background-color: #fff0f6;
+      border-left: 4px solid #741b47;
+      padding: 20px;
+      text-align: center;
+      border-radius: 0 8px 8px 0;
+      margin-bottom: 30px;
+    }
+    .theme-box h4 {
+      color: #741b47;
+      font-size: 16px;
+      font-weight: bold;
+    }
+
+    /* Grid Layouts for Info */
+    .info-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin-bottom: 35px;
+    }
+    .card {
+      background: #fdfdfd;
+      border: 1px solid #eaeaea;
+      padding: 20px;
+      border-radius: 8px;
+    }
+    .card h3 {
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      color: #741b47;
+      margin-bottom: 12px;
+      border-bottom: 2px solid #f0e2e9;
+      padding-bottom: 6px;
+    }
+    .card ul {
+      list-style: none;
+    }
+    .card ul li {
+      font-size: 14px;
+      margin-bottom: 8px;
+      color: #444444;
+      display: flex;
+      justify-content: space-between;
+    }
+    .card ul li strong {
+      color: #111111;
+    }
+
+    /* Club Offer Segment */
+    .club-offer {
+      background-color: #ead1dc;
+      border: 1px dashed #741b47;
+      padding: 25px;
+      border-radius: 8px;
+      text-align: center;
+      margin-bottom: 35px;
+    }
+    .club-offer h2 {
+      font-size: 20px;
+      color: #4a102e;
+      margin-bottom: 12px;
+    }
+    .club-offer p {
+      font-size: 14px;
+      color: #5c203f;
+      margin-bottom: 10px;
+    }
+    .club-offer .warning {
+      font-weight: bold;
+      color: #b10000;
+      margin-top: 15px;
+      font-size: 13px;
+    }
+
+    /* Action Station (Button & Deadline) */
+    .action-zone {
+      text-align: center;
+      margin: 40px 0;
+    }
+    .btn-register {
+      display: inline-block;
+      background-color: #cc0000;
+      color: #ffffff;
+      text-decoration: none;
+      font-family: Arial, sans-serif;
+      font-size: 18px;
+      font-weight: bold;
+      padding: 15px 40px;
+      border-radius: 50px;
+      box-shadow: 0 4px 15px rgba(204, 0, 0, 0.3);
+      transition: all 0.3s ease;
+    }
+    .btn-register:hover {
+      background-color: #990000;
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(204, 0, 0, 0.4);
+    }
+    .deadline-text {
+      color: #cc0000;
+      margin-top: 15px;
+      font-size: 14px;
+    }
+    .deadline-text em {
+      font-weight: bold;
+    }
+
+    /* Footer Styles */
+    .footer {
+      background-color: #741b47;
+      color: #ffffff;
+      text-align: center;
+      padding: 30px 20px;
+    }
+    .footer p {
+      font-size: 15px;
+      margin-bottom: 15px;
+    }
+    .social-icons {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+    }
+    .social-icons a img {
+      width: 38px;
+      height: 38px;
+      transition: transform 0.2s;
+    }
+    .social-icons a img:hover {
+      transform: scale(1.1);
+    }
+
+    /* Responsive adjustments */
+    @media (max-width: 600px) {
+      .info-grid {
+        grid-template-columns: 1fr;
+      }
+      .content-body {
+        padding: 25px 20px;
+      }
+      .email-container {
+        margin: 10px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="email-container">
+    
+    <img src="https://evxgpvu.stripocdn.email/content/guids/CABINET_a998c66c5e6e501de75d0ada077ced2e4d8b2d9d8280a095d1d8716200bb2623/images/img_4758.JPG" alt="Marathon Runner" class="hero-image">
+
+    <div class="header-banner">
+      <h1>Get Ready for the 7.5 KM Marathon at</h1>
+      <div class="bangla-title">“যুগান্তরের দিগন্ত – ২০২৫”</div>
+      <div class="sub-tag">Exclusive Offers for Core Committee Members of All DIU Clubs</div>
+    </div>
+
+    <div class="content-body">
+      <p class="salutation">Dear Student,</p>
+      <p class="intro-text">
+        The <strong>DIU Voluntary Service Club (DIUVSC)</strong> is excited to announce a vibrant and energetic <strong>7.5 KM Marathon</strong>, hosted as part of our flagship event <strong>“যুগান্তরের দিগন্ত 2025”</strong> at Daffodil International University.
+      </p>
+
+      <div class="theme-box">
+        <h4>✨ Run for Palestine & Sudan: A Tribute to Peace, Hope, and Humanity ✨</h4>
+      </div>
+
+      <p class="intro-text" style="margin-bottom: 35px;">
+        Every step you take will symbolize solidarity with people facing hardship around the world. Whether you're a passionate runner or simply joining to enjoy a memorable experience with friends, this marathon welcomes everyone. Bring your spirit, your energy, and your passion as we run for a meaningful cause.
+      </p>
+
+      <div class="info-grid">
+        
+        <div class="card">
+          <h3>📅 Event Details</h3>
+          <ul>
+            <li><strong>Date:</strong> <span>9th Dec 2025</span></li>
+            <li><strong>Venue:</strong> <span>DIU Campus</span></li>
+            <li><strong>Reg Fee:</strong> <span>৳600</span></li>
+          </ul>
+        </div>
+
+        <div class="card">
+          <h3>🏆 Prizes (Boys & Girls)</h3>
+          <ul>
+            <li><strong>1st Place:</strong> <span>Medal + ৳3,000</span></li>
+            <li><strong>2nd Place:</strong> <span>Medal + ৳2,000</span></li>
+            <li><strong>3rd Place:</strong> <span>Medal + ৳1,000</span></li>
+          </ul>
+        </div>
+
+      </div>
+
+      <div class="card" style="margin-bottom: 35px;">
+        <h3>🎁 What You Will Receive</h3>
+        <p style="font-size: 14px; margin-bottom: 10px; color: #666;"><strong>Marathon Kit (Available Dec 8):</strong></p>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px; font-size: 14px; color: #444;">
+          <div>• T-Shirt</div>
+          <div>• Finisher Medal</div>
+          <div>• Electrolytes & Hydration</div>
+          <div>• Hardcopy Finisher Certificate</div>
+          <div>• Online Participation Pass</div>
+          <div>• Food & Medical Support</div>
+        </div>
+      </div>
+
+      <img src="https://evxgpvu.stripocdn.email/content/guids/CABINET_a998c66c5e6e501de75d0ada077ced2e4d8b2d9d8280a095d1d8716200bb2623/images/whatsapp_image_20251202_at_23759_pm_1.jpeg" alt="Special Deal" class="hero-image" style="border-radius: 8px; margin-bottom: 20px;">
+
+      <div class="club-offer">
+        <h2>Special Offer for DIU Club Core Committee Members</h2>
+        <p>Members of any DIU club’s Core Committee are eligible for a special registration fee of <strong>500 BDT</strong>. Each club may nominate a maximum of two (2) core committee members for this offer.</p>
+        <p>Applicants must provide their Club President’s reference in the Google Form for verification purposes.</p>
+        <p class="warning">Priority will be given to the first two verified applicants from each club. Any additional submissions beyond this limit will be considered cancelled.</p>
+      </div>
+
+      <img src="https://evxgpvu.stripocdn.email/content/guids/CABINET_a998c66c5e6e501de75d0ada077ced2e4d8b2d9d8280a095d1d8716200bb2623/images/whatsapp_image_20251126_at_141921_4a57dce5.jpg" alt="Let's make history" class="hero-image" style="border-radius: 8px;">
+
+      <div class="action-zone">
+        <a href="https://forms.gle/s8oZTuWfUpQqRMdP9" target="_blank" class="btn-register">Register Now!</a>
+        <div class="deadline-text">
+          Registration Ends: <em>December 1, 2025, 11:59 PM</em>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="footer">
+      <p style="font-weight: bold; font-style: italic;">Open for everyone! Seats are limited, so register now!</p>
+      <p style="font-size: 13px; opacity: 0.8; margin-bottom: 20px;">Run for passion. Run for pride. Run for the power of youth.</p>
+      
+      <div class="social-icons">
+        <a href="https://www.facebook.com/share/16QEUzZD6Z/?mibextid=wwXIfr" target="_blank">
+          <img src="https://evxgpvu.stripocdn.email/content/assets/img/social-icons/rounded-colored/facebook-rounded-colored.png" alt="Facebook">
+        </a>
+        <a href="https://www.linkedin.com/company/diu-voluntary-service-club/" target="_blank">
+          <img src="https://evxgpvu.stripocdn.email/content/assets/img/social-icons/rounded-colored/linkedin-rounded-colored.png" alt="LinkedIn">
+        </a>
+      </div>
+    </div>
+
+  </div>
+
+</body>
+</html>
