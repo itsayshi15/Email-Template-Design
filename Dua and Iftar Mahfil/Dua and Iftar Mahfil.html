@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="bn" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Registration Template</title>
+  <style>
+    /* Global Reset & Typography */
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: 'Times New Roman', Times, Baskerville, Georgia, serif;
+      background-color: #f6f8fa;
+      color: #333333;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      padding: 20px;
+    }
+
+    /* Premium Container Card */
+    .email-card {
+      max-width: 600px;
+      width: 100%;
+      background-color: #ffffff;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+      border: 4px solid #ffef70;
+      transition: transform 0.3s ease;
+    }
+
+    /* Banner Image Layout */
+    .image-container {
+      width: 100%;
+      line-height: 0; /* Prevents unwanted white-space gaps below image */
+      overflow: hidden;
+    }
+    .main-image {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    /* Action Station Section */
+    .action-panel {
+      background: linear-gradient(135deg, #1c4b0f, #113009);
+      padding: 40px 30px;
+      text-align: center;
+    }
+
+    /* Catchy High-Conversion Button */
+    .btn-register {
+      display: inline-block;
+      background-color: #cc0000;
+      color: #ffffff;
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: bold;
+      letter-spacing: 0.5px;
+      padding: 14px 45px;
+      border-radius: 50px;
+      border: 2px solid #ffef70;
+      box-shadow: 0 4px 15px rgba(204, 0, 0, 0.35);
+      transition: all 0.3s ease-in-out;
+    }
+    .btn-register:hover {
+      background-color: #e60000;
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(255, 239, 112, 0.4);
+    }
+    .btn-register:active {
+      transform: translateY(1px);
+    }
+
+    /* Deadline Text Style */
+    .deadline-notice {
+      color: #ffffff;
+      margin-top: 18px;
+      font-size: 13px;
+      opacity: 0.9;
+      letter-spacing: 0.3px;
+    }
+    .deadline-notice em {
+      font-style: italic;
+      color: #ffef70;
+    }
+
+    /* Responsive scaling for small screen devices */
+    @media (max-width: 480px) {
+      body {
+        padding: 10px;
+      }
+      .action-panel {
+        padding: 30px 20px;
+      }
+      .btn-register {
+        font-size: 16px;
+        padding: 12px 35px;
+        width: 100%; /* Spans full width gracefully on mobile */
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="email-card">
+    
+    <div class="image-container">
+      <a href="https://forms.gle/8hNSs8uWu2Q9CebX6" target="_blank">
+        <img src="https://evxgpvu.stripocdn.email/content/guids/CABINET_7bb05cd79638e90a52c987be0df5a04539993df11bebaf22dadb3073c683119a/images/img_7793.PNG" alt="Featured Image Banner" class="main-image">
+      </a>
+    </div>
+
+    <div class="action-panel">
+      <a href="https://forms.gle/8hNSs8uWu2Q9CebX6" target="_blank" class="btn-register">
+        রেজিস্ট্রেশন করুন
+      </a>
+      <p class="deadline-notice">
+        <em>আবেদনের শেষ তারিখ: ৫ মার্চ ২০২৬</em>
+      </p>
+    </div>
+
+  </div>
+
+</body>
+</html>
