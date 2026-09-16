@@ -1,1 +1,1 @@
-![Preview](APSP Registration Deadline Extended.png)
+![Preview](APSP%20Registration%20Deadline%20Extended.png)
